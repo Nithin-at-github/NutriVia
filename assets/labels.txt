@@ -1,0 +1,70 @@
+Baked Potato
+Crispy Chicken
+Donut
+Fries
+Hot Dog
+Sandwich
+Taco
+Taquito
+apple
+apple_pie
+banana
+beetroot
+bell pepper
+burger
+butter_naan
+cabbage
+capsicum
+carrot
+cauliflower
+chai
+chapati
+cheesecake
+chicken_curry
+chilli pepper
+chole_bhature
+corn
+cucumber
+dal_makhani
+dhokla
+eggplant
+fried_rice
+garlic
+ginger
+grapes
+ice_cream
+idli
+jalebi
+jalepeno
+kaathi_rolls
+kadai_paneer
+kiwi
+kulfi
+lemon
+lettuce
+mango
+masala_dosa
+momos
+omelette
+onion
+orange
+paani_puri
+pakode
+paprika
+pav_bhaji
+pear
+peas
+pineapple
+pizza
+pomegranate
+potato
+raddish
+samosa
+soy beans
+spinach
+sushi
+sweetcorn
+sweetpotato
+tomato
+turnip
+watermelon

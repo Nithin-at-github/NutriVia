@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233538959683",
+    "project_id": "nutrivia-e1c0e",
+    "storage_bucket": "nutrivia-e1c0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233538959683:android:932f7c537f638c8bc097f6",
+        "android_client_info": {
+          "package_name": "com.example.nutrivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233538959683-s4n7o8khcvqh6snm76ej2vnee8ktvaoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nutrivia",
+            "certificate_hash": "e59bf2063714550c62012282f581c283eeff9a7d"
+          }
+        },
+        {
+          "client_id": "233538959683-9hqa5enn0hnica2or89bpmfqgh0llv4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4n8EiN1mvjit_eUujzGnhGphS2CwemO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233538959683-9hqa5enn0hnica2or89bpmfqgh0llv4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+D:/Projects/Flutter/nutrivia/android/app/.cxx/Debug/1r6m1q2u/x86/CMakeFiles/edit_cache.dir
+D:/Projects/Flutter/nutrivia/android/app/.cxx/Debug/1r6m1q2u/x86/CMakeFiles/rebuild_cache.dir
