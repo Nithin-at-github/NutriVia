@@ -69,6 +69,7 @@ The app acts as a **personal digital dietitian**, focusing on improved health, s
 
 ## 🗂️ Firestore Database Structure
 
+```
 users (collection)
 └── userId (document)
 ├── personal details
@@ -84,6 +85,7 @@ users (collection)
 ├── food_logs (subcollection)
 ├── exercise_logs (subcollection)
 └── meal_plans (subcollection)
+```
 
 
 ## 🚀 App Workflow
