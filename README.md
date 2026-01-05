@@ -44,6 +44,8 @@ The app acts as a **personal digital dietitian**, focusing on improved health, s
 - Water intake logging
 - Exercise logging
 - Remaining calories visualization
+  
+<img width="250" height="500" alt="excersiceIntensity" src="https://github.com/user-attachments/assets/c8311b45-0493-4ff2-8309-a5d04a0fd7e4" />
 
 ### 🎨 UI & Experience
 - Clean **teal-themed UI** for consistency
@@ -101,19 +103,31 @@ users (collection)
 
 ## 📸 Screens Implemented
 
-- Onboarding screens
 - Multi-step signup
+- Onboarding screens
 - Home dashboard
 - Food scanning & logging screen
 - Meal logging screen
 - Account & profile screen
 
+<img width="250" height="500" alt="Signup" src="https://github.com/user-attachments/assets/8651d4aa-e0f8-422c-9bb8-39b1e052d26e" />
+&nbsp;
+<img width="250" height="500" alt="signup1" src="https://github.com/user-attachments/assets/5a625327-c71b-44b6-9825-25e0f59c26de" />
+&nbsp;
+<img width="250" height="500" alt="home" src="https://github.com/user-attachments/assets/99c60ddf-2425-4101-b2e4-618221d878b7" />
+&nbsp;
+<img width="250" height="500" alt="foodscan" src="https://github.com/user-attachments/assets/2a0a3aed-1a00-46f2-83ea-6dc95e79dd28" />
+&nbsp;
+<img width="250" height="500" alt="logging" src="https://github.com/user-attachments/assets/14daaa23-94a7-4a34-978c-f8f4a8949f99" />
+&nbsp;
+<img width="250" height="500" alt="profile" src="https://github.com/user-attachments/assets/853965e2-ece3-412c-ac5f-c1e28054a9f0" />
 
 ## 🧠 AI Components
 
 ### Food Image Classification
 - Trained on a food image dataset
 - Returns the **top predicted food item**
+<img width="250" height="500" alt="food_detection" src="https://github.com/user-attachments/assets/26a533c6-7a2c-43db-8008-e6bce76ab28e" />
 
 
 ### Personalized Recommendation Engine
